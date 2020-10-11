@@ -1,6 +1,6 @@
 {
-    "name": "com.baba-s.uni-addressables-label-const-generator",
-    "displayName": "UniAddressablesLabelConstGenerator",
+    "name": "com.baba-s.uni-addressables-label-const-creator",
+    "displayName": "UniAddressablesLabelConstCreator",
     "version": "1.0.0",
     "unity": "2019.2",
     "author": "baba-s",
