@@ -1,5 +1,5 @@
 {
-    "name": "UniAddressablesLabelConstGenerator",
+    "name": "UniAddressablesLabelConstCreator",
     "references": [
         "GUID:28c00eec21f0ea143a80ff96fb15e56a",
         "GUID:8d5930cf95a468048836c17dcae3c7b5",
