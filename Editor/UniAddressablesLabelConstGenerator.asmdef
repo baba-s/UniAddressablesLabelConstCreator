@@ -1,0 +1,19 @@
+{
+    "name": "UniAddressablesLabelConstGenerator",
+    "references": [
+        "GUID:28c00eec21f0ea143a80ff96fb15e56a",
+        "GUID:8d5930cf95a468048836c17dcae3c7b5",
+        "GUID:69448af7b92c7f342b298e06a37122aa"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
